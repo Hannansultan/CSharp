@@ -1,0 +1,24 @@
+#######------------ ONE thing I know only about my project have to apply SURF ----------- ######
+
+-- > First try to use open cv for SURF
+-- > Successfull to import open cv Dlls for use in testing project
+-- > First evaluation of Sir :P rejected open cv find a c# wrapper :(
+-- > Finding c# wrapper, found :) hahahaha EMgu Cv :)
+-- > Trying to add emgu cv into test project.... no help found with emgu cv 3.1 v
+-- > Done loading emgu cv after some effort :)
+-- > Now time to use emgu cv ... again no help :(
+-- > Found SURF algo on emgu cv web
+-- > But no idea how to use :P
+-- > after one week able to use that code hmmmm....
+-- > Meet with Sir in office and having bistaaan ... understand working of surf ... again no help :( ... study SURF paper
+-- > Good news no time on worksnaps got permission from boss :P
+-- > Now trying to study surf paper ..... boorrriinng no understanding of paper things :(
+-- > digging deeper known how SURF works ... great :)
+-- > after a very hard work found a way to match logo and get result .....
+-- > Final evaluation ... daaarrrr daaarrrr 
+-- > After evaluation no comments :(
+-- > Got a oofer to finilize this project into a product :) that's greaattt
+-- > Meet with Sir after exams IN SHA ALLAH .............. to be continued :) :P 
+
+
+######----------------------------------------------------------------------------------- ######
